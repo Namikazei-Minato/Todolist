@@ -1,0 +1,44 @@
+#TodoBody ul li {
+    margin: 5px auto;
+    font-size: 26px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid blueviolet;
+}
+
+#TodoBody {
+    border-top: 1px solid blueviolet;
+    border-bottom: 1px solid blueviolet;
+    padding: 10px 0;
+}
+
+#delete {
+    margin-right: 10px;
+    width: 100px;
+    height: 30px;
+    color: white;
+    font-size: 18px;
+    background-color: red;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+#TodoBody ul {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.TodoValue {
+    flex: 1;
+}
+
+.DoneBox {
+    height: 30px;
+    width: 30px;
+}
+
+.TodoId {
+    width: 45px;
+    height: 30px;
+}

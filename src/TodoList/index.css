@@ -1,0 +1,20 @@
+#TodoList {
+    margin: 200px auto;
+    width: 80%;
+    border: 1px solid blueviolet;
+    border-radius: 20px;
+}
+
+#TodoTitle {
+    text-indent: 1em;
+    margin: 5px 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}

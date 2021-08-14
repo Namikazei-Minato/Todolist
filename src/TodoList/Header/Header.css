@@ -1,0 +1,7 @@
+#TodoHeader input {
+    display: block;
+    margin: 30px auto;
+    height: 40px;
+    width: 90%;
+    font-size: 26px;
+}
